@@ -2,6 +2,8 @@
 
 This project uses machine learning to detect fraudulent credit card transactions. It includes data preprocessing, model training, evaluation, and handling imbalanced data.
 
+🔗 **Project Repo**: [GitHub Link](https://github.com/Eswarachari23/Credit-Card-Fraud-Detection-/tree/main)
+
 ---
 
 ## 📂 Dataset
@@ -9,11 +11,11 @@ This project uses machine learning to detect fraudulent credit card transactions
 - **Source**: Kaggle - Credit Card Fraud Detection  
 - **Records**: 284,807  
 - **Fraud Cases**: 492  
-- **Features**: 30 (anonymized)
+- **Features**: 30 (anonymized using PCA)
 
 ---
 
-## 🔧 Tools Used
+## 🛠 Tools Used
 
 - Python  
 - Jupyter Notebook  
@@ -24,7 +26,7 @@ This project uses machine learning to detect fraudulent credit card transactions
 
 ---
 
-## 🧠 Models Used
+## 🤖 Models Used
 
 - Logistic Regression  
 - Random Forest  
@@ -32,9 +34,9 @@ This project uses machine learning to detect fraudulent credit card transactions
 
 ---
 
-## 🏁 Steps
+## 🚀 How to Run
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/Eswarachari23/Credit-Card-Fraud-Detection-.git
+   cd Credit-Card-Fraud-Detection-
